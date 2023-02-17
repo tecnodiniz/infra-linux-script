@@ -13,7 +13,7 @@
 ### Criação
 
 - creategroups.sh
-- createdors.sh
+- createdirs.sh
 - createusers.sh
 
 ### Remoção
